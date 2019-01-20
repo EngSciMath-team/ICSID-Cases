@@ -1,0 +1,13 @@
+{
+  "name": "ICSID-Cases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EngSciMath-team/ICSID-Cases",
+  "author": "EngSciMath-team",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.6"
+  }
+}
